@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kitteh</groupId>
+  <artifactId>fakemythicmobs</artifactId>
+  <versioning>
+    <release>5.2.0-fake</release>
+    <versions>
+      <version>5.2.0-fake</version>
+    </versions>
+    <lastUpdated>20221230012018</lastUpdated>
+  </versioning>
+</metadata>
